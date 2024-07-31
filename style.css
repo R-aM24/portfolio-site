@@ -377,8 +377,8 @@ li >a{
 }
 
 .card-img{
-    width: 80%;
-    max-height: 250px;
+    width: 100%;
+    max-height: 350px;
 }
 
 .btn-img{
