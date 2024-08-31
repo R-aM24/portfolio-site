@@ -378,17 +378,22 @@ li >a{
 
 .card-img{
     width: 100%;
-    max-height: 350px;
+    max-width: 350px;
 }
 
 .btn-img{
-    width: 30px;
+    width: 20px;
 }
-
+ 
 .credit-risk{
     height: 200px;
 }
-@media (max-width: 650px){
+
+.project-c{
+    align-self: center;
+}
+
+@media (max-width: 750px){
     
     .project-c{
         display: flex;
